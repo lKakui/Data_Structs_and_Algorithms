@@ -4,3 +4,11 @@
 /Tde_1/
 
 /file_compressor/
+
+# Compiled binaries
+B+Tree/B+
+exec1/files
+exec2/function
+Tde_2/src/a.exe
+Tde_2/src/main
+*.o
